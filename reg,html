@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>  Registration> </title>
+<body> 
+<h1> = Student Registration </h1>
+<p> Name </p> </br>
+<input type = text id = "Name"/>
+<p> Roll Number</p></br>
+<input type = text id = "Roll Number"/>
+</body>
+</html>
+
